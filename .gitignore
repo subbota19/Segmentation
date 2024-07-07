@@ -1,0 +1,11 @@
+# Python specific
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+
+# IDEA
+.idea/
